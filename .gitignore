@@ -1,0 +1,13 @@
+# temporários do speedrun
+ghspeedrun-*/
+*.log
+
+# SO
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editores
+.vscode/
+.idea/
+*.swp
